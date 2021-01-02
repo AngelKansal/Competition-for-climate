@@ -1,1 +1,1 @@
-# Competition-for-climate
+https://snack.expo.io/@angelkansal/climate-action
